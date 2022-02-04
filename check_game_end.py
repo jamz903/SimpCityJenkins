@@ -1,4 +1,5 @@
 def check_game_end(board):
+    
     counter = 0
     board_max = len(board) * len(board[0])
     
