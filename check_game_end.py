@@ -1,3 +1,4 @@
+#check game end
 def check_game_end(board):
     
     counter = 0
