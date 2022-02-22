@@ -1,3 +1,5 @@
+#generate new board
+
 def generate_new_board(length, height):
     finalboard = []
 
